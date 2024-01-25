@@ -1,0 +1,2 @@
+Total cost: 9408.31140960295
+Elapsed time: 2233.3835698
